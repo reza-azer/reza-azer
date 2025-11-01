@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist | Web Developer | AI Enthusiast</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=reza-azer">
+  <a href="https://github.com/reza-azer">
     <img src="https://komarev.com/ghpvc/?username=reza-azer&label=Profile%20views&color=00FFFF&style=flat-square" alt="reza-azer's profile views" />
   </a>
 </p>
