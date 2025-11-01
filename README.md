@@ -62,9 +62,6 @@
 ## 💬 Quote
 > stay curious, cuz every huge tech we've got, started by a small curiosity
 
-<picture>
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/reza-azer/reza-azer/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
