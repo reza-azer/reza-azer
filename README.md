@@ -11,11 +11,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=reza-azer&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=reza-azer&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reza-azer/reza-azer/output/pacman-contribution-graph-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reza-azer/reza-azer/output/pacman-contribution-graph.svg">
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/reza-azer/reza-azer/output/pacman-contribution-graph.svg">
+<img src="https://raw.githubusercontent.com/reza-azer/reza-azer/output/snake.svg" alt="Snake animation" /> 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reza-azer/reza-azer/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reza-azer/reza-azer/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/reza-azer/reza-azer/output/pacman-contribution-graph.svg">
-  <img src="https://raw.githubusercontent.com/reza-azer/reza-azer/output/snake.svg" alt="Snake animation" /> 
 </picture>
 
 ###
